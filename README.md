@@ -1,8 +1,8 @@
-# Portfólio de QA · SauceDemo
+# Automação com Selenium · SauceDemo
 
 [![Selenium tests](https://github.com/meleandromelo/qa-portfolio-selenium-saucedemo/actions/workflows/selenium-tests.yml/badge.svg?branch=main)](https://github.com/meleandromelo/qa-portfolio-selenium-saucedemo/actions/workflows/selenium-tests.yml)
 
-Suíte de sete testes de ponta a ponta para a loja de demonstração [SauceDemo](https://www.saucedemo.com/). O foco é verificar o que o comprador vê, da autenticação à confirmação do pedido. Cada caso abre uma sessão independente do Chrome. Os testes usam as contas públicas do site e dados fictícios de comprador.
+Suíte de sete testes End to End para a loja de demonstração [SauceDemo](https://www.saucedemo.com/). O foco é verificar o que o comprador vê, da autenticação à confirmação do pedido. Cada caso abre uma sessão independente do Chrome. Os testes usam as contas públicas do site e dados fictícios de comprador.
 
 ## Cobertura
 
